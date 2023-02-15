@@ -2,6 +2,8 @@
 
 Implemented Landmarks app from SwiftUI tutorials in Apple developer.
 
+Jan. 2023.
+
 Reference: https://developer.apple.com/tutorials/swiftui
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-15 at 17 44 03](https://user-images.githubusercontent.com/65150672/218977711-4e5a710d-bd47-4302-873c-1aa3220ebc67.png)
